@@ -1,0 +1,42 @@
+#heading{
+    width: 100%;
+    background-color: #0051ff;
+    border-radius: 5px;
+    margin-top: 0;
+    font-size: 100px;
+    color: gold;
+    font-family: cursive;
+    padding-top: 0;
+}
+
+body{
+    background-color: yellowgreen;
+}
+
+#heading_text{
+    font-size: 24px;
+}
+
+#sim{
+    background-color: #0051ff;
+    font-size: 24px;
+    color: gold;
+    font-family: cursive;
+    width: 400px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+#task{
+    background-color: #0051ff;
+    font-size: 24px;
+    color: gold;
+    font-family: cursive;
+    width: 400px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+#task:hover{
+    background-color: #2600ff;
+}
